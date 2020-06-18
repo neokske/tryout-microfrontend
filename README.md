@@ -1,6 +1,8 @@
 # Simple microfrontend POC
 
 ## react-page
+https://direflow.io/ used for creating react webcomponents
+
 `yarn build`
 
 `yarn serve:build`
